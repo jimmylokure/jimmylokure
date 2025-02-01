@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1>My name is Jimmy, and I'm an <a href="https://www.linkedin.com/in/jimmylokure/">IT Professional</a>☺</h1>
 
-<!--
-**jimmylokure/jimmylokure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Information Tech Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/jimmylokure/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/jimmylokure/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jimmylokure/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/jimmylokure/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jimmylokure/azure-network-protocols)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>LinkedIn Portal:</h2>
+
+[<img align="left" alt="Jimmy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/jimmylokure/
