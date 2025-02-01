@@ -1,4 +1,4 @@
-<h1>My name is Jimmy, and I'm an <a href="https://www.linkedin.com/in/jimmylokure/">IT Professional</a></h1>
+<h1>My name is Jimmy, and I'm working in <a href="https://www.linkedin.com/in/jimmylokure/">IT</a></h1>
 
 <h2>Information Tech Projects:</h2>
 
