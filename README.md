@@ -2,14 +2,11 @@
 
 <h2>Information Tech Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jimmylokure/osticket-prereqs)
-
-- <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jimmylokure/configure-ad)
 
 <h2>LinkedIn Portal:</h2>
 
 [<img align="left" alt="Jimmy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/jimmylokure/
+[[linkedin]:](https://www.linkedin.com/in/jimmylokure/) https://www.linkedin.com/in/jimmylokure/
