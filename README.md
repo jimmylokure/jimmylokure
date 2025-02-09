@@ -7,6 +7,6 @@
 
 <h2>LinkedIn Portal:</h2>
 
-[<img align="left" alt="Jimmy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jimmy | LinkedIn" width="22px" src="https://i.imgur.com/v0zol1l.png" />][linkedin]
 
-[linkedin]: [Jimmy Lokure](https://www.linkedin.com/in/jimmylokure/)
+[linkedin]: https://www.linkedin.com/in/jimmylokure/
